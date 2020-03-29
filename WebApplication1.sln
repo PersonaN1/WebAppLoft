@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1B537602-FD66-4C63-B32C-EB36AAA69F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{7D1D7860-51CF-4F61-A00A-114269D11774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B537602-FD66-4C63-B32C-EB36AAA69F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B537602-FD66-4C63-B32C-EB36AAA69F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B537602-FD66-4C63-B32C-EB36AAA69F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B537602-FD66-4C63-B32C-EB36AAA69F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1D7860-51CF-4F61-A00A-114269D11774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1D7860-51CF-4F61-A00A-114269D11774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1D7860-51CF-4F61-A00A-114269D11774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1D7860-51CF-4F61-A00A-114269D11774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
